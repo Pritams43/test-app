@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Testing Git CICD worflow 
+          Testing Git CICD work-flow 
         </p>
         <a
           className="App-link"
